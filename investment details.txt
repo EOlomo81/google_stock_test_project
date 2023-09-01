@@ -1,0 +1,25 @@
+Deciding if investors of Google Stock made a good choice of investment
+
+From the data at hand collected from January to July 2023, calculating the day-to-day profit margin spread.
+- Total no. of days trades were involved = 142
+- Number of days where trades closed higher than it opened = 77
+- So if in 142 days, 77 days were closed with profit.
+Therefore, (77/142) * 100 = 0.54225 * 100 = 54.225
+Roughly 54% of 142 trading days came back with a profit.
+Bringing this same margin to a year scheme of 365 days, 54% of 365 = 197 days approx.
+
+The actual profit spread;
+Let's say we're a potential investor with a million dollars, looking for stocks to invest in.
+What would of the profit off this $1,000,000 in these 142 days?
+For the first day of trade, the initial investment was multiplied by the daily return which is $1,000,000 * -0.00469993.
+We got a value of $995,300.07
+This value was used to determine the "Amount Left After Tradind Day" of the next day. This trend was continued throughout.
+
+*Check .xlsx for full details.
+
+After all calculations were done accurately, the amount we're left with after 142 days of trading is $1,549,283.30
+Initial investment = $1,000,000.00
+Amount after 142 days = $1,549,283.30
+Therefore, profit percentage = (($1,549,283.30 - $1,000,000)/$1,000,000)*100
+= 0.5492833% 
+approx.= 0.55%
